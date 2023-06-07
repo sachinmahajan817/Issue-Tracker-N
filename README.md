@@ -5,8 +5,8 @@ An issue tracking API with user authenticatioin, issue documents, comment sub-do
 
 ## Important Links
 
-- [Hosted Website Front-End](https://sidhantmathur.github.io/issue-tracker-client/)
-- [Front-End Repo](https://github.com/sidhantmathur/issue-tracker-client)
+- [Hosted Website Front-End](https://sachinmahajan817.github.io/Issue-Tracker-N/)
+- [Front-End Repo](https://github.com/sachinmahajan817/Issue-Tracker-N)
 - [Heroku Hosted API](https://afternoon-beach-76578.herokuapp.com/)
 
 ## Development Plan
